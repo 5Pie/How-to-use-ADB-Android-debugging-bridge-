@@ -5,10 +5,13 @@
 1. Connect phone with *USB debugging* ON
 2. Select *File Transfer Option* for the USB (it can work without this option, but it’s recommended for more stability.)
 3. Go to the location:
- `C:\Users\Name\AppData\Local\Android\Sdk\platform-tools` **or similar** as per your system.
+ `C:\Users\Name\AppData\Local\Android\Sdk\platform-tools` **or similar** as per your system 
 4. Left click on the empty space and click on *OPEN IN TERMINAL*
+.<img width="1674" height="821" alt="image" src="https://github.com/user-attachments/assets/db80532c-ef39-4654-bac8-922b38e649fd" />
 
 The terminal should now be open.
+<img width="1687" height="813" alt="Screenshot 2026-03-20 122348" src="https://github.com/user-attachments/assets/b6e0c6e2-15cf-49c6-9b18-8e56f6055587" />
+
 
 
 ## **Using the ADB (Uninstalling):**
